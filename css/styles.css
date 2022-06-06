@@ -1,7 +1,16 @@
 
+h1 {
+    color: rgb(4, 80, 62);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h3 {
+    color: rgb(4, 80, 62);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 
 body {
     background-color:#cfe4d7;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 hr {
